@@ -1,4 +1,4 @@
-# tailwind-tut
+# tailwind css basic postcss files requried to build website
 
 # TAILWINDCSS
 A utility-first CSS framework for rapidly building custom user interfaces.
